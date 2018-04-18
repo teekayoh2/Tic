@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTac</string>
+
+    <string-array name="game_values">
+        <item>3 x 3</item>
+        <item>5 x 5</item>
+    </string-array>
+</resources>
